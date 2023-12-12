@@ -1,0 +1,21 @@
+From d2fcff90e04823740543362bd4e265060d5bd734 Mon Sep 17 00:00:00 2001
+From: RahulGit077 <rahulkeccsd@gmail.com>
+Date: Tue, 12 Dec 2023 14:33:30 +0530
+Subject: [PATCH] Exp added
+
+---
+ exp9.txt.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 exp9.txt.txt
+
+diff --git a/exp9.txt.txt b/exp9.txt.txt
+new file mode 100644
+index 0000000..ad81506
+--- /dev/null
++++ b/exp9.txt.txt
+@@ -0,0 +1,2 @@
++Hello, this is the original content.
++This is my added line.
+-- 
+2.42.0.windows.2
+
